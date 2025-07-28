@@ -1,0 +1,7 @@
+/Users/larissasoaresreis/Documents/QRCodeGenerator/src/main/java/com/srlarissa/qrcode/generator/QrcodeGeneratorApplication.java
+/Users/larissasoaresreis/Documents/QRCodeGenerator/src/main/java/com/srlarissa/qrcode/generator/controller/QrCodeController.java
+/Users/larissasoaresreis/Documents/QRCodeGenerator/src/main/java/com/srlarissa/qrcode/generator/dto/QrCodeGenerateRequest.java
+/Users/larissasoaresreis/Documents/QRCodeGenerator/src/main/java/com/srlarissa/qrcode/generator/dto/QrCodeGenerateResponse.java
+/Users/larissasoaresreis/Documents/QRCodeGenerator/src/main/java/com/srlarissa/qrcode/generator/infrastructure/S3StorageAdapter.java
+/Users/larissasoaresreis/Documents/QRCodeGenerator/src/main/java/com/srlarissa/qrcode/generator/infrastructure/ports/StoragePort.java
+/Users/larissasoaresreis/Documents/QRCodeGenerator/src/main/java/com/srlarissa/qrcode/generator/service/QrCodeGeneratorService.java
