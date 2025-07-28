@@ -94,7 +94,7 @@ Este projeto é uma aplicação Spring Boot que gera QR Codes e os armazena em u
 6. A resposta será um JSON contendo a URL do QR Code gerado e armazenado no S3.
 
 ---
-## Decisões de Arquitetura e Estrutura do Projeto
+## Arquitetura e Estrutura do Projeto
 
 ---
 
