@@ -137,3 +137,8 @@ Google ZXing foi escolhida por ser a mais consolidada em Java. É mantida pela c
 - **DTOs**: Objetos de transferência de dados, como `QrCodeGenerateRequest` e `QrCodeGenerateResponse`.
 - **`application.properties`**: Configurações da aplicação, incluindo as credenciais do AWS S3.
 
+---
+## Documentação da API
+
+---
+A documentação da API está disponível através do Swagger UI. Após iniciar a aplicação, acesse `http://localhost:8080/swagger-ui/index.html` para visualizar os endpoints disponíveis e testar suas funcionalidades.
